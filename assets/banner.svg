@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Research Like a Clown</title><desc id="desc">Documented error patterns. A writing skill for Claude Code.</desc>
+<rect width="1200" height="300" rx="20" fill="#152334"/>
+<path d="M920 0V300M980 0V300M1040 0V300M1100 0V300M1160 0V300M900 60H1200M900 120H1200M900 180H1200M900 240H1200" stroke="#223448"/>
+<g transform="translate(58 78)"><path d="M18 33L11 13L33 23L44 4L56 23L78 13L70 33Z" fill="#f7ad55"/><circle cx="11" cy="10" r="5" fill="#f7ad55"/><circle cx="44" cy="1" r="5" fill="#f7ad55"/><circle cx="78" cy="10" r="5" fill="#f7ad55"/><rect x="15" y="32" width="58" height="62" rx="9" fill="#f4f0e8"/><path d="M28 48H60M28 58H52" stroke="#152334" stroke-width="5" stroke-linecap="round"/><path d="M32 72L43 83M43 72L32 83" stroke="#d25b4b" stroke-width="4" stroke-linecap="round"/></g>
+<text x="188" y="87" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#f7ad55">CLAUDE CODE SKILL</text>
+<text x="185" y="146" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" fill="#f4f0e8">Research Like a Clown</text>
+<text x="188" y="188" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#bac8d6">Documented error patterns. Deliberately flawed writing.</text>
+<path d="M58 237H1142" stroke="#3b4a5a"/>
+<text x="60" y="268" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#bac8d6">PATTERN CATALOG / SOURCE RECORDS / WRITING INSTRUCTIONS</text>
+<g transform="translate(1010 92)" fill="none" stroke="#f7ad55" stroke-width="3"><path d="M0 12H64M0 28H42M0 44H55"/><path d="M4 77L22 95M22 77L4 95" stroke="#d25b4b"/><path d="M39 85H69"/></g>
+</svg>
